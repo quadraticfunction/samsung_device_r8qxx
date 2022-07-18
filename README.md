@@ -1,5 +1,4 @@
 ## Samsung Galaxy S20 FE 4G (Snapdragon) Recovery Device Tree
-
 ## How to compile
 
 ```sh
