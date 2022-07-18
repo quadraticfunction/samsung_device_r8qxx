@@ -1,4 +1,4 @@
-## Recovery Device Tree for the Samsung Galaxy S20 FE 4G (Snapdragon)
+## Samsung Galaxy S20 FE 4G (Snapdragon) Recovery Device Tree
 
 ## How to compile
 
