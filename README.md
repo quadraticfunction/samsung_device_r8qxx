@@ -5,7 +5,7 @@
 ```sh
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
-lunch twrp_r8q-eng
+lunch twrp_r8qxx-eng
 make recoveryimage
 ```
 
